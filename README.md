@@ -27,12 +27,6 @@ project-root/
     └── layers.png          # Printed model structure
 ```
 
-2. TFLM directory
-    -> model_tflite.cc (TFLM model)
-    -> main_function.cc (checked no syntax error but haven't resolved library dependency issue for entire compilation (probably need a pure Linux environment & platform info) )
-3. assignment.ipynb (Jupyter notebook script to transfer & inference model)
-4. tf_lite_model.tflite (tflite model)
-
 <br/>
 
 **To-do Items**:
